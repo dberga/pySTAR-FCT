@@ -108,7 +108,7 @@ There are only two command line options available:
 
 All internal parameters of the algorihtm are set via configuration file (for available options and purpose of each parameter see example config file `config_files/template_config.ini`).
 
-Should you have any questions, feel free to raise an issue or email yulia_k@eecs.yorku.ca.
+Should you have any questions, feel free to raise an issue or email david.berga@enti.cat or yulia_k@eecs.yorku.ca.
   
 ### Citing us
 
