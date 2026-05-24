@@ -9,7 +9,7 @@ Preliminary tests were presesented in the Annual Meeting of the Vision Sciences 
 * David Berga, Calden Wloka, John K Tsotsos; Modeling task influences for saccade sequence and visual relevance prediction. Journal of Vision 2019;19(10):106c. [https://doi.org/10.1167/19.10.106c](https://doi.org/10.1167/19.10.106c). See [poster](https://doi.org/10.7490/f1000research.1116873.1).
 * Wloka, C., Kotseruba, I., & Tsotsos, J. K. (2018). Active Fixation Control to Predict Saccade Sequences. In 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 3184–3193). IEEE. 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). [https://doi.org/10.1109/cvpr.2018.00336](https://doi.org/10.1109/cvpr.2018.00336)
 
-* This work was also included in Chapter 6 of David Berga's PhD thesis, titled "Understanding Eye Movements: Psychophysics and a model of Primary Visual Cortex" (ISBN: 978-84-948531-8-0), see University's [record](https://ddd.uab.cat/record/217162) and [handle](https://hdl.handle.net/10803/667901), download latest version of the [book here](https://dialnet.unirioja.es/servlet/tesis?codigo=270828&orden=0&info=link). 
+This work was also included in Chapter 6 of David Berga's PhD thesis, titled "Understanding Eye Movements: Psychophysics and a model of Primary Visual Cortex" (ISBN: 978-84-948531-8-0), see University's [record](https://ddd.uab.cat/record/217162) and [handle](https://hdl.handle.net/10803/667901), download latest version of the [book here](https://dialnet.unirioja.es/servlet/tesis?codigo=270828&orden=0&info=link). 
 
 ![pySTAR-FCT in action](examples/Yarbus.gif)
 
