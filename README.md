@@ -156,7 +156,7 @@ If you find our work useful in your research, please consider citing:
 * Also see Navalpakkam & Itti's [model on task attention](https://doi.org/10.1016/j.visres.2004.07.042)
 * For word taxonomies, we integrated [Wu & Palmer's semantic similarity](https://doi.org/10.3115/981732.981751) for testing semantic similarity weights.
 * For further grammar tasks check Toni Kunic's [Cognitive program compiler (Chapter 2)](https://yorkspace.library.yorku.ca/items/77289451-886e-4c1f-88a7-f52d7482fc77).
-* Also see Biparva & Tsotsos' StNet object localization and Rosenfeld et al's [Visual Priming Networks](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w39/Rosenfeld_Priming_Neural_Networks_CVPR_2018_paper.pdf).
+* Also see Biparva & Tsotsos' [StNet](https://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w40/Biparva_STNet_Selective_Tuning_ICCV_2017_paper.pdf) object localization and Rosenfeld et al's [Visual Priming Networks](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w39/Rosenfeld_Priming_Neural_Networks_CVPR_2018_paper.pdf).
 * See Huth et al's [brain continuous semantic space categories](https://doi.org/10.1016/j.neuron.2012.10.014) through fMRI BOLD responses.
 * Also see Meng & Huang [semantic similarity features with Wordnet model](https://gvpress.com/journals/IJHIT/vol6_no1/1.pdf).
 
