@@ -24,7 +24,7 @@ This work was also included in Chapter 6 of David Berga's PhD thesis, titled "Un
 * **Iuliia Kotseruba** - *Original Python version of the code*
 * **Calden Wloka** - *theory, original C++ implementation for TarzaNN*
 * **John K. Tsotsos** - *theory, selective tuning ideation*
-* **Toni Kunic** - *docker integration assistance*
+* **Toni Kunic** - *docker+cuda integration*
   
 ### Installation
 
